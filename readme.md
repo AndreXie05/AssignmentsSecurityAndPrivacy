@@ -1,6 +1,6 @@
 # Security and Privacy (SP) — Lab Assignments
 
-This repository contains the three practical assignments developed for the **Security and Privacy** course. The projects cover cryptographic benchmarking, Privacy Impact Assessment (PIA), and dataset anonymization.
+This repository contains the three practical assignments developed for the **Security and Privacy** course unit. The projects cover cryptographic benchmarking, Privacy Impact Assessment (PIA), and dataset anonymization.
 
 ## 📂 Repository Structure
 
